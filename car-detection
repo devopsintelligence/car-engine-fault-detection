@@ -1,0 +1,32 @@
+# Car Engine Fault Detection 🚗🔥
+
+Yeh project sensor data use karke car ke engine faults detect karta hai using Machine Learning. Ismein EDA, preprocessing, model training, aur evaluation steps hain.
+
+## 🧠 Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
+
+## 📊 Project Steps
+1. Data Collection
+2. EDA & Cleaning
+3. Model Training (Random Forest)
+4. Accuracy Evaluation
+5. Output Visualization
+
+## 📁 Folder Structure
+data/
+notebooks/
+src/
+models/
+output/
+docs/
+
+
+## 💡 Results
+- Accuracy: 93%
+- Confusion Matrix included
+- Faults correctly detected with minimal false positives
+
